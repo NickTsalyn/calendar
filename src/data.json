@@ -1,0 +1,157 @@
+[
+  {
+    "id": 1,
+    "bank": "Apartment rent",
+    "payment": 1705
+  },
+  {
+    "id": 2,
+    "bank": "Credit card",
+    "payment": 97
+  },
+  {
+    "id": 3,
+    "bank": "",
+    "payment": 123
+  },
+  {
+    "id": 4,
+    "bank": "",
+    "payment": 123
+  },
+  {
+    "id": 5,
+    "bank": "",
+    "payment": 123
+  },
+  {
+    "id": 6,
+    "bank": "Credit card",
+    "payment": 45
+  },
+  {
+    "id": 7,
+    "bank": "",
+    "payment": 123
+  },
+  {
+    "id": 8,
+    "bank": "Credit card",
+    "payment": 78
+  },
+  {
+    "id": 9,
+    "bank": "",
+    "payment": 123
+  },
+  {
+    "id": 10,
+    "bank": "",
+    "payment": 123
+  },
+  {
+    "id": 11,
+    "bank": "",
+    "payment": 123
+  },
+  {
+    "id": 12,
+    "bank": "",
+    "payment": 123
+  },
+  {
+    "id": 13,
+    "bank": "Credit card",
+    "payment": 140
+  },
+  {
+    "id": 14,
+    "bank": "Insurance",
+    "payment": 360
+  },
+  {
+    "id": 15,
+    "bank": "IRS",
+    "payment": 500
+  },
+  {
+    "id": 16,
+    "bank": "T-Mobile",
+    "payment": 132
+  },
+  {
+    "id": 17,
+    "bank": "Nissan",
+    "payment": 535
+  },
+  {
+    "id": 18,
+    "bank": "",
+    "payment": 123
+  },
+  {
+    "id": 19,
+    "bank": "",
+    "payment": 123
+  },
+  {
+    "id": 20,
+    "bank": "",
+    "payment": 123
+  },
+  {
+    "id": 21,
+    "bank": "Caliber fix, 02/2024",
+    "payment": 267
+  },
+  {
+    "id": 22,
+    "bank": "",
+    "payment": 123
+  },
+  {
+    "id": 23,
+    "bank": "",
+    "payment": 123
+  },
+  {
+    "id": 24,
+    "bank": "",
+    "payment": 123
+  },
+  {
+    "id": 25,
+    "bank": "",
+    "payment": 123
+  },
+  {
+    "id": 26,
+    "bank": "",
+    "payment": 123
+  },
+  {
+    "id": 27,
+    "bank": "Infinity brakes, 12/23",
+    "payment": 148
+  },
+  {
+    "id": 28,
+    "bank": "Credit card",
+    "payment": 75
+  },
+  {
+    "id": 29,
+    "bank": "",
+    "payment": 123
+  },
+  {
+    "id": 30,
+    "bank": "Apple",
+    "payment": 400
+  },
+  {
+    "id": 31,
+    "bank": "Infiniti",
+    "payment": 525
+  }
+]
